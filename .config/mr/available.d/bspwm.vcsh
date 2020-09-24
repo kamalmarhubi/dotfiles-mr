@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/bspwm.git]
-checkout = vcsh clone ssh://git@github.com/kamalmarhubi/dotfiles-bspwm.git bspwm
+checkout = vcsh clone https://github.com/kamalmarhubi/dotfiles-bspwm.git bspwm
